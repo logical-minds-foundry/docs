@@ -1,6 +1,7 @@
 # docs
 
-Documentation for the Logical Minds Foundry — org-wide narrative, roadmap, and activity across all Foundry projects.
+Documentation for the Logical Minds Foundry — org-wide narrative, roadmap, and
+activity across all Foundry projects.
 
 ## Table of Contents
 

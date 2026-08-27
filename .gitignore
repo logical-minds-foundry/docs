@@ -1,17 +1,29 @@
-# Editors
+# >>> vergil-managed: base (managed by vrg-gitignore-sync; do not edit) >>>
 *.swp
 *.swo
 *~
+*.bak
 .idea/
 .vscode/
-
-# OS
 .DS_Store
 Thumbs.db
-
-# Vergil
-.venv-host/
+.env
+.env.*
+*.log
+.venv/
 .worktrees/
 .vergil/
 .superpowers/
+.claude/scheduled_tasks.lock
+.claude/settings.local.json
 build/
+dist/
+coverage.xml
+junit.xml
+licenses.json
+docs/site/site/
+node_modules/
+# <<< vergil-managed <<<
+
+# Vergil
+.venv-host/
